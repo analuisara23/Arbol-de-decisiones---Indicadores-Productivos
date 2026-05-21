@@ -1,6 +1,3 @@
-[arbol_decision_indicadores.html](https://github.com/user-attachments/files/28119273/arbol_decision_indicadores.html)
-<h2 class="sr-only">Árbol de decisión visual para evaluación de 83 indicadores de productividad</h2>
-
 <style>
 body { margin: 0; padding: 1rem 0; }
 .tree-container { max-width: 100%; margin: 0 auto; }
